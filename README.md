@@ -4,7 +4,7 @@ this is jalaali (persian) calendar for materilizecss. extended from materilize n
 # How to use
 you can add js file to your project and call ppickadate for persian datepicker
 
-## Simple Example
+### Simple Example
 ```
 $('.pdatepicker').ppickadate({
     selectMonths: true, // Creates a dropdown to control month
@@ -13,7 +13,7 @@ $('.pdatepicker').ppickadate({
 });
 ```
 
-## Settings
+### Settings
 all settings like [materialize](http://materializecss.com/forms.html#date-picker) but we have a new setting ```gregorianReturn``` as boolian for return gregorian date;
 
 ```
@@ -25,5 +25,5 @@ all settings like [materialize](http://materializecss.com/forms.html#date-picker
 });
 ```
 
-## Persian number
+### Persian number
 for persian number you can use another plugin [Persian number jQuery plugin](https://github.com/sms1989/persian-numbers-jquery-plugin)
