@@ -1,7 +1,6 @@
 /**
  * Created by Mohammad on 19/10/2017.
  */
-
 function mod(a, b)
 {
     return a - (b * Math.floor(a / b));
